@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&height=80&lines=Hey+there%2C+I'm+Sadkat+%F0%9F%91%8B;Full-Stack+Developer;Systems+Thinker" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d0f6b,100:581ba8&height=220&section=header&text=Sadkat&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Systems%20Thinker&descSize=18&descAlignY=58&descAlign=50" width="100%"/>
 
-<br/>
+</div>
+
+<div align="center">
 
 [![X](https://img.shields.io/badge/@sadkatwt-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@sadkatwt)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Sadkat&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sadkat&color=581ba8&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
 
 <br/>
 
@@ -44,9 +46,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Sadkat&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&border_radius=10" height="160"/>
+<img src="https://github-readme-stats.shion.dev/api?username=Sadkat&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=581ba8&icon_color=7b2fd4&text_color=c9d1d9&border_radius=10" height="160"/>
 
-<img src="https://streak-stats.demolab.com/?user=Sadkat&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&border_radius=10" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=Sadkat&theme=tokyonight&hide_border=true&background=0d1117&ring=581ba8&fire=7b2fd4&currStreakLabel=581ba8&border_radius=10" height="160"/>
 
 </div>
 
@@ -54,6 +56,6 @@
 
 <div align="center">
 
-*built with caffeine and curiosity* ☕
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:581ba8,50:2d0f6b,100:0d1117&height=130&section=footer" width="100%"/>
 
 </div>
