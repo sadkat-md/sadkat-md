@@ -1,76 +1,150 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a08,40:1a2e0f,100:3d6b2a&height=240&section=header&text=SADKAT&fontSize=78&fontColor=c9a84c&animation=fadeIn&fontAlignY=40&desc=〔%20Full-Stack%20Developer%20·%20Systems%20Thinker%20〕&descSize=16&descAlignY=60&descAlign=50&descColor=8aad6e" width="100%"/>
-
-</div>
-
-<div align="center">
-
-> *"When you're lost in the darkness — look for the light."*
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:070a05,40:1e3a0f,80:2d5216,100:4a7a1e&height=280&text=S%20A%20D%20K%20A%20T&fontSize=64&fontColor=daa520&animation=fadeIn&fontAlignY=45&desc=◈%20Full-Stack%20Engineer%20%20·%20%20Systems%20Architect%20◈&descSize=15&descColor=7a9e5a&descAlignY=65" width="100%"/>
 
 <br/>
 
-[![X](https://img.shields.io/badge/𝕏%20@sadkatwt-1a2e0f?style=for-the-badge&logo=X&logoColor=c9a84c)](https://x.com/@sadkatwt)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Sadkat&color=3d6b2a&style=for-the-badge&label=SURVIVORS+ENCOUNTERED)](https://visitcount.itsvg.in)
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║         ✦  FIREFLY NETWORK  ·  SURVIVOR DOSSIER  ✦          ║
+║              [ CLEARANCE LEVEL : FULL-STACK ]               ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br/>
 
-```
-░▒▓  FIREFLY NETWORK — SURVIVOR DOSSIER  ▓▒░
-     Clearance: Full-Stack · Active Status: Online
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=16&pause=3000&color=daa520&center=true&vCenter=true&multiline=false&width=600&height=30&lines=%22When+you%27re+lost+in+the+darkness%2C+look+for+the+light.%22;%22No+matter+what%2C+you+keep+finding+something+to+fight+for.%22;%22I+struggled+for+a+long+time+with+survivin%27...+and+you-%22" alt="TLOU Quotes" />
+
+</div>
+
+<br/>
 
 ---
 
-## 🍄 Arsenal — Tech Stack
-
 <div align="center">
 
-| ⚙️ Core Languages | 🌿 Frontend | 🔦 Backend & Runtime | 🗺️ Data Storage |
-|:---:|:---:|:---:|:---:|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-1a2e0f?style=flat-square&logo=typescript&logoColor=c9a84c) | ![React](https://img.shields.io/badge/React-0f1a0a?style=flat-square&logo=react&logoColor=8aad6e) | ![Node.js](https://img.shields.io/badge/Node.js-1a2e0f?style=flat-square&logo=node.js&logoColor=8aad6e) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1a1a?style=flat-square&logo=postgresql&logoColor=c9a84c) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a0a?style=flat-square&logo=javascript&logoColor=c9a84c) | ![Next.js](https://img.shields.io/badge/Next.js-0a0a08?style=flat-square&logo=next.js&logoColor=c9a84c) | ![Bun](https://img.shields.io/badge/Bun-0a0a08?style=flat-square&logo=bun&logoColor=c9a84c) | ![MongoDB](https://img.shields.io/badge/MongoDB-0a1a0a?style=flat-square&logo=mongodb&logoColor=8aad6e) |
-| ![Python](https://img.shields.io/badge/Python-0f1a2e?style=flat-square&logo=python&logoColor=c9a84c) | | ![FastAPI](https://img.shields.io/badge/FastAPI-0a1a18?style=flat-square&logo=fastapi&logoColor=8aad6e) | ![Redis](https://img.shields.io/badge/Redis-1a0a0a?style=flat-square&logo=redis&logoColor=c9534f) |
-| ![C++](https://img.shields.io/badge/C++-0a0f1a?style=flat-square&logo=c%2B%2B&logoColor=8aad6e) | | ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a0f00?style=flat-square&logo=rabbitmq&logoColor=c9a84c) | ![Supabase](https://img.shields.io/badge/Supabase-0a1a12?style=flat-square&logo=supabase&logoColor=8aad6e) |
-| | | ![JWT](https://img.shields.io/badge/JWT-0a0a08?style=flat-square&logo=JSON%20web%20tokens&logoColor=c9a84c) | ![Prisma](https://img.shields.io/badge/Prisma-0a0f1a?style=flat-square&logo=Prisma&logoColor=8aad6e) |
+### ░░ IDENTITY ░░
+
+[![X — @sadkatwt](https://img.shields.io/badge/𝕏──@sadkatwt-070a05?style=for-the-badge&logo=x&logoColor=daa520&labelColor=1e3a0f)](https://x.com/@sadkatwt)
+&nbsp;&nbsp;
+[![Survivors Met](https://komarev.com/ghpvc/?username=Sadkat&color=2d5216&style=for-the-badge&label=SURVIVORS+MET&labelColor=1e3a0f)](https://visitcount.itsvg.in)
+
+</div>
 
 <br/>
-
-**🏚️ Outposts &nbsp;·&nbsp; Supply Routes**
-
-![AWS](https://img.shields.io/badge/AWS-1a0f00?style=flat-square&logo=amazon-aws&logoColor=c9a84c)
-![Netlify](https://img.shields.io/badge/Netlify-0a0a08?style=flat-square&logo=netlify&logoColor=8aad6e)
-![Render](https://img.shields.io/badge/Render-0a1a12?style=flat-square&logo=render&logoColor=8aad6e)
-![PNPM](https://img.shields.io/badge/PNPM-1a1000?style=flat-square&logo=pnpm&logoColor=c9a84c)
-![Nodemon](https://img.shields.io/badge/NODEMON-0a0a08?style=flat-square&logo=nodemon&logoColor=8aad6e)
-
-</div>
-
----
-
-## 📡 Firefly Transmission Log — GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Sadkat&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0a0a08&title_color=c9a84c&icon_color=8aad6e&text_color=a8b89a&border_radius=6" height="160"/>
-
-<img src="https://streak-stats.demolab.com/?user=Sadkat&theme=tokyonight&hide_border=true&background=0a0a08&ring=3d6b2a&fire=c9a84c&currStreakLabel=c9a84c&sideLabels=8aad6e&dates=5a6e52&border_radius=6" height="160"/>
-
-</div>
 
 ---
 
 <br/>
 
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+   ◈  EQUIPMENT MANIFEST  —  SCAVENGED & BATTLE-TESTED
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<br/>
+
+<details>
+<summary><b>🗡️ &nbsp; WEAPONS — Core Languages</b></summary>
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-070a05?style=for-the-badge&logo=typescript&logoColor=daa520)
+![JavaScript](https://img.shields.io/badge/JavaScript-070a05?style=for-the-badge&logo=javascript&logoColor=daa520)
+![Python](https://img.shields.io/badge/Python-070a05?style=for-the-badge&logo=python&logoColor=7a9e5a)
+![C++](https://img.shields.io/badge/C++-070a05?style=for-the-badge&logo=c%2B%2B&logoColor=7a9e5a)
+
+<br/>
+</details>
+
+<details>
+<summary><b>🏚️ &nbsp; OUTPOST INTERFACE — Frontend</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-070a05?style=for-the-badge&logo=react&logoColor=7a9e5a)
+![Next.js](https://img.shields.io/badge/Next.js-070a05?style=for-the-badge&logo=next.js&logoColor=daa520)
+
+<br/>
+</details>
+
+<details>
+<summary><b>⚙️ &nbsp; MACHINERY — Backend & Runtime</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-070a05?style=for-the-badge&logo=node.js&logoColor=7a9e5a)
+![Bun](https://img.shields.io/badge/Bun-070a05?style=for-the-badge&logo=bun&logoColor=daa520)
+![FastAPI](https://img.shields.io/badge/FastAPI-070a05?style=for-the-badge&logo=fastapi&logoColor=7a9e5a)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-070a05?style=for-the-badge&logo=rabbitmq&logoColor=daa520)
+![JWT](https://img.shields.io/badge/JWT-070a05?style=for-the-badge&logo=jsonwebtokens&logoColor=7a9e5a)
+
+<br/>
+</details>
+
+<details>
+<summary><b>🗺️ &nbsp; SAFE HOUSES — Databases & ORM</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-070a05?style=for-the-badge&logo=postgresql&logoColor=daa520)
+![MongoDB](https://img.shields.io/badge/MongoDB-070a05?style=for-the-badge&logo=mongodb&logoColor=7a9e5a)
+![Redis](https://img.shields.io/badge/Redis-070a05?style=for-the-badge&logo=redis&logoColor=c0392b)
+![Supabase](https://img.shields.io/badge/Supabase-070a05?style=for-the-badge&logo=supabase&logoColor=7a9e5a)
+![Prisma](https://img.shields.io/badge/Prisma-070a05?style=for-the-badge&logo=prisma&logoColor=daa520)
+
+<br/>
+</details>
+
+<details>
+<summary><b>🌍 &nbsp; TERRITORY — Cloud, Deployment & Tools</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-070a05?style=for-the-badge&logo=amazonwebservices&logoColor=daa520)
+![Netlify](https://img.shields.io/badge/Netlify-070a05?style=for-the-badge&logo=netlify&logoColor=7a9e5a)
+![Render](https://img.shields.io/badge/Render-070a05?style=for-the-badge&logo=render&logoColor=7a9e5a)
+![PNPM](https://img.shields.io/badge/PNPM-070a05?style=for-the-badge&logo=pnpm&logoColor=daa520)
+![Nodemon](https://img.shields.io/badge/NODEMON-070a05?style=for-the-badge&logo=nodemon&logoColor=7a9e5a)
+
+<br/>
+</details>
+
+<br/>
+
+---
+
+<br/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+   ◈  MISSION LOG  —  SIGNAL INTERCEPTED FROM QZ-NODE
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Sadkat&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=070a05&title_color=daa520&icon_color=7a9e5a&text_color=a8b89a&border_radius=4&custom_title=◈%20Survivor%20Activity%20Log" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=Sadkat&hide_border=true&background=070a05&ring=4a7a1e&fire=daa520&currStreakLabel=daa520&sideLabels=7a9e5a&dates=4a6e3a&border_radius=4&currStreakNum=daa520&sideNums=a8b89a" height="170"/>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
 
 ```
-[ FIREFLY SIGN-OFF ]   لا تنسَ المضيَّ قدماً
+◈  STAY SAFE OUT THERE, SURVIVOR  ◈
+    — THE FIREFLY NETWORK SIGNS OFF —
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d6b2a,50:1a2e0f,100:0a0a08&height=140&section=footer" width="100%"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a7a1e,40:2d5216,80:1e3a0f,100:070a05&height=180&section=footer" width="100%"/>
