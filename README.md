@@ -1,8 +1,3 @@
-Hi this is Sadkat, I am a Junior Software Engineer, My Interests are in backend development and systems engineering.
-
-Currently working on Poseidon.
-
-I like playing gamnes alot and coding is my second personality, currently trying to survive in the dev world.
-
-Apart from all of that i am audiophile aswell i like to deep dive into lossless musics and get the eargasm i crave.
-
+I'm a backend developer focused on distributed systems and infrastructure — the kind of problems where understanding what's happening under the hood matters more than which framework you reach for.
+Currently building Poseidon, a distributed key-value store in Rust. I tend to build things from raw primitives — sockets, queues, protocols — rather than reach for a library that hides how they work.
+Open to remote backend roles. Outside of work, I'm usually deep into lossless audio or a game.
