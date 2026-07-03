@@ -1,4 +1,7 @@
-I'm a backend developer focused on distributed systems and infrastructure the kind of problems where understanding what's happening under the hood matters more than which framework you reach for.
-Currently building Poseidon, a distributed key-value store in Rust. I tend to build things from raw primitives sockets, queues, protocols rather than reach for a library that hides how they work.
+I am a backend developer working with typescript and full stack apps, currently shifting to systems engineering for a better understanding and building low level systms from scratch.
+I like to write blogs and articles on my X handle @sadkatwt, writin blogs and understanding systems is absolutely a better idea.
+I love to play a lot of games and watch a lot more cinema.
 
-Open to remote backend roles. Outside of work i like to play games.
+Currently working on Poseidon and learning rust along the way. 
+
+I am open to remote roles and collaborations.
